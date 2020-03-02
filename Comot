@@ -29,28 +29,28 @@ exit
 }
 =================================================
 echo $white"Author : Comot"
-echo $white"Team : JUNIOR GUARDIAN TEAM"
-echo $white"Thanks To :TUKANG | COMOT| LINK | Mr. NOOB | "
-echo $white"Thanks To :indonesia meme"
-echo $white"thanks To : UBI OCONG"
-echo $white"thanks To : JONES TEAM"
-echo $white"thanks To : Team Cracker Indonesia"
+echo $white"Team : UBI OCONG TEAM"
+echo $white"Thanks To : TUKANG | COMOT | LINK | Mr. NOOB | "
+echo $white"Thanks To : Korban BUCIN"
+echo $white"thanks To : Tukang Clone"
+echo $white"thanks To : TUKANG REPORT"
+echo $white"thanks To : Team Kepo Indonesia"
 
 =================================================
-echo $yellow" 01) Red Hawk"
-echo $yellow" 02) D-Tect"
-echo $yellow" 03) Top Up Ilegal ML"
-echo $yellow" 04) Top Up Ilegal FF"
-echo $yellow" 05) Webdav"
+echo $yellow" 01) Auto Report Target"
+echo $yellow" 02) Cracking Target Hotmail"
+echo $yellow" 03) Cracking Target Yahoo"
+echo $yellow" 04) Hack facebook-target"
+echo $yellow" 05) Hack facebook-masal"
 echo $yellow" 06) Metasploit"
-echo $yellow" 07) Pulsa Gratis"
+echo $yellow" 07) Pulsa Gratis Sampai Kiamat"
 echo $yellow" 08) Ubuntu"
 echo $yellow" 09) Youtube Dl"
-echo $yellow" 10) viSQL "
-echo $yellow" 11) multi-brute-webdav "
+echo $yellow" 10) Spamer WhatsAap "
+echo $yellow" 11) Super-multi-brute-force "
 echo $yellow" 12) Bajinganv6 "
-echo $yellow" 13) Tools RCT"
-echo $yellow" 14) cc fresh Amazon Dan Untung Carding"
+echo $yellow" 13) Profile Guard Facebook"
+echo $yellow" 14) Hack CCTV"
 echo $red" 15) Exit "
 echo $white""
 read -p "[NOOB GANS]> " bro;
@@ -261,17 +261,17 @@ fi
 
 if [ $bro = 15 ] || [ $bro = 15 ]
 then
-echo " Thanks To Comot "
+echo " Thanks To Tukang Comot "
 sleep 1
-echo " Santri pasuruan"
+echo " BOCAH PAUD"
 sleep 1
-echo " Bay-Bay "
+echo " Byee-Byee "
 sleep 1
-echo " Para Hacker"
+echo " Master Pelit"
 sleep 1
 echo " Jangan Lupa Ngopi Yahh "
 sleep 1
-echo " Orang sabar disayang janda"
+echo " Orang Sabar Disayang Janda"
 sleep 1
 exit
 fi
